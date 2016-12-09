@@ -1,6 +1,4 @@
-
-[Sequence Create.sql]
-
+GO
 CREATE SCHEMA [Schema1]
 GO
 
@@ -59,4 +57,6 @@ CREATE SEQUENCE [Sequence3]
 	CREATE SEQUENCE [Sequence8] AS [smallint]
 
 	CREATE SEQUENCE [Sequence9] AS [tinyint]
+
+	CREATE SEQUENCE [Sequence10] AS [tinyint]
 	
